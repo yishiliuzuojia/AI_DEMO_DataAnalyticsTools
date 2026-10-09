@@ -107,7 +107,7 @@ pip install pandas numpy plotly streamlit openai
 streamlit run app.py
 ```
 ### 4.5 访问使用
-启动成功后，终端会输出访问地址，默认打开浏览器访问：http://localhost:8501即可进入工具主页面，开始使用。
+启动成功后，终端会输出访问地址，默认打开浏览器访问：http://localhost:8501 即可进入工具主页面，开始使用。
 
 ## 五、工具使用流程
 - 文件上传：点击页面上传按钮，选择本地的销售数据 Excel/CSV 文件（建议包含商品名称、销售数量、销售日期、单价等关键字段）
